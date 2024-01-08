@@ -18,7 +18,19 @@ The review scraping tool navigates through web pages, identifies relevant review
 - **Ease of Use:** A simple command-line interface makes the tool accessible to users with varying levels of technical expertise.
 
 ## Installation
-To use the Review Scraping Project, follow the installation instructions in the [Installation](#installation) section below.
+To install and set up the project, follow these steps:
 
-...
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/Gouthami-K/FlipkartReviewScraping.git
+   cd FlipkartReviewScraping
+   
+2. Install dependencies.
+   pip install -r requirements.txt
+
+## Usage
+To use the review scraper, run the following command:
+python app.py 
+
+
 

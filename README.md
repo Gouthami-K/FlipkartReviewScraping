@@ -23,9 +23,11 @@ To install and set up the project, follow these steps:
 1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/Gouthami-K/FlipkartReviewScraping.git
+   ```bash
    cd FlipkartReviewScraping
    
 2. Install dependencies.
+   ```bash
    pip install -r requirements.txt
 
 ## Usage

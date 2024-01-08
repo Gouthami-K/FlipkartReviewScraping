@@ -23,7 +23,6 @@ To install and set up the project, follow these steps:
 1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/Gouthami-K/FlipkartReviewScraping.git
-   ```bash
    cd FlipkartReviewScraping
    
 2. Install dependencies.
@@ -32,7 +31,7 @@ To install and set up the project, follow these steps:
 
 ## Usage
 To use the review scraper, run the following command:
-python app.py 
-
+```bash
+python app.py
 
 
